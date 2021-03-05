@@ -1,4 +1,5 @@
 # Simple Particle Swarm Optimization with Python
+```
 .
 ├── README.md
 ├── data
@@ -27,3 +28,4 @@
     │   └── scatterAnim.py
     ├── partSwarmOptim.py
     └── scatterAnim.py
+```
